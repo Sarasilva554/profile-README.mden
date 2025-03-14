@@ -21,10 +21,6 @@ devel_isolated/
 /cfg/cpp/
 /cfg/*.py
 
-# Ignore generated docs
-*.dox
-*.wikidoc
-
 # eclipse stuff
 .project
 .cproject
@@ -42,12 +38,7 @@ qtcreator-*
 /planning/docs
 /planning/src
 
-*~
 
 # Emacs
-.#*
-
-# Catkin custom files
-CATKIN_IGNORE
 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
